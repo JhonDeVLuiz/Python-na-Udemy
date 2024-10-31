@@ -1,0 +1,4 @@
+print("""
+Aprendendo sobre DocString
+
+""")
